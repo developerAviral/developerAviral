@@ -16,8 +16,8 @@
 
 ## Work Experience :man_technologist:
 
-* Technical Analyst at [PhonePe](https://www.coforge.com/)
-* Former Software Engineer intern at [Red Hat](https://www.redhat.com/en)
+* Technical Analyst at [Coforge](https://www.coforge.com/)
+* Former Technical Lead at [LTIMindtree](https://www.ltimindtree.com/)
 * Co-founder at [Developer Avi](https://www.youtube.com/channel/UCtEmM2CFPTdDM5lB340sKNQ) 
 
 ## Tools & Technologies :computer:
