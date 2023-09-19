@@ -8,9 +8,9 @@
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I'm a traveller, I love to explore new places :)
 
-[![Twitter-Badge](https://img.shields.io/twitter/follow/darecoder?style=social&link=https://www.twitter.com/developeraviral/)](https://www.twitter.com/developeraviral/)
-[![Linkedin Badge](https://img.shields.io/badge/-darecoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/developeravi/)](https://www.linkedin.com/in/developeravi/)
-[![Instagram Badge](https://img.shields.io/badge/-darecoder-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/developeraviral/)](https://instagram.com/developeraviral)
+[![Twitter-Badge](https://img.shields.io/twitter/follow/developerAviral?style=social&link=https://www.twitter.com/developeraviral/)](https://www.twitter.com/developeraviral/)
+[![Linkedin Badge](https://img.shields.io/badge/-developeravi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/developeravi/)](https://www.linkedin.com/in/developeravi/)
+[![Instagram Badge](https://img.shields.io/badge/-developerAviral-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/developeraviral/)](https://instagram.com/developeraviral)
 [![Gmail Badge](https://img.shields.io/badge/-developer.aviral@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developer.aviral@gmail.com)](mailto:developer.aviral@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=developeraviral" alt="developeraviral"/>
 
